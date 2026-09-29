@@ -1,0 +1,4 @@
+git branch
+git switch branch
+git checkout
+git branch -m
