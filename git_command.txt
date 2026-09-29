@@ -9,3 +9,10 @@ git remote add origin https://github.com/HarshSahu-rbu/github_for_devops.git
 git remote -v
 git remote set-url origin
 git push origin master
+---------------
+git clone
+git pull 
+git checkout
+git switch 
+
+Thank you for watching !
